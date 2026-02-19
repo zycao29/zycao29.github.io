@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="margin-top: 0.25em"></div>
-I am a doctoral student in the Department of Electrical Engineering and Computer Science at Syracuse University. I am supervised by Dr. Reza Zafarani and researching the Disinformation. Before that, I was a master student in Computational and Applied Mathematics at Rice University.
+I am a doctoral student in the Department of Electrical Engineering and Computer Science at Syracuse University. I am supervised by Dr. Reza Zafarani and researching the Disinformation and Large Language Models (LLMs). Before that, I was a master student in Computational and Applied Mathematics at Rice University.
 
 
 
