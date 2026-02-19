@@ -51,7 +51,10 @@ I am a doctoral student in the Department of Electrical Engineering and Computer
 </div>
 
 # Publication
+Cao, Z., Nguyen, J., & Zafarani, R. (2025). Is Less Really More? Fake News Detection with Limited Information. ACM SIGKDD Explorations Newsletter, 27(1), 20-31.
+
 Cao, Z., Yu, H., Yang, H., & Sano, A. (2023). PiRL: Participant-Invariant Representation Learning for Healthcare Using Maximum Mean Discrepancy and Triplet Loss. arXiv preprint arXiv:2302.09126.
 
+Cao, Z. (2020, January). Identification of the association between hepatitis B virus and liver cancer using machine learning approaches based on amino acid. In Proceedings of the 2020 10th International Conference on Bioscience, Biochemistry and Bioinformatics (pp. 56-63).
 
 
