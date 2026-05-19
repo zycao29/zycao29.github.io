@@ -12,8 +12,8 @@ main:
   - title: "Publication"
     url: /#publication
 
-  - title: "Pets"
-    url: /#pets
+#  - title: "Pets"
+ #   url: /#pets
     
 #   - title: "Experience"
 #     url: /#experience
