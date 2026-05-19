@@ -57,4 +57,9 @@ Cao, Z., Yu, H., Yang, H., & Sano, A. (2023). PiRL: Participant-Invariant Repres
 
 Cao, Z. (2020, January). Identification of the association between hepatitis B virus and liver cancer using machine learning approaches based on amino acid. In Proceedings of the 2020 10th International Conference on Bioscience, Biochemistry and Bioinformatics (pp. 56-63).
 
+# Pets
+I have a cat named **Daidai (呆呆)**.
 
+<img src="/images/daidai.jpg" alt="Daidai the cat" style="max-width: 420px; border-radius: 12px; margin-top: 10px;">
+
+*Daidai (呆呆)*
